@@ -28,7 +28,7 @@
   }
 
   var panel = make('div', [
-    'position:fixed', 'right:16px', 'bottom:84px', 'z-index:2147483647',
+    'position:fixed', 'left:16px', 'bottom:84px', 'z-index:2147483647',
     'width:380px', 'max-width:calc(100vw - 32px)', 'box-sizing:border-box',
     'font-family:ui-sans-serif,system-ui,-apple-system,sans-serif',
     'background:#0d1117', 'color:#e6edf3', 'border:1px solid #30363d',
